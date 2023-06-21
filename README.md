@@ -7,7 +7,7 @@ This is a Streamlit web application that generates YouTube video titles and scri
 To run the application locally, follow these steps:
 
 1. Install the necessary dependencies by running the command `pip install -r requirements.txt`.
-2. Set your OpenAI API key by replacing `"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"` with your own API key in the `os.environ["OPENAI_API_KEY"]` line of the code.
+2. Set your OpenAI API key by replacing <API_KEY> with your own API key in the `os.environ["OPENAI_API_KEY"]` line of the code.
 3. Run the application by executing the command `streamlit run main.py`.
 4. Access the application in your browser at `http://localhost:8501`.
 
