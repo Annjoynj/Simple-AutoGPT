@@ -29,6 +29,7 @@ To run the application locally, follow these steps:
 ## Credits
 
 This application is powered by [OpenAI](https://openai.com/) and uses the [Streamlit](https://streamlit.io/) framework.
+Nicholas Renotte.
 
 ## License
 
