@@ -8,7 +8,7 @@ from langchain.chains import LLMChain, SequentialChain
 from langchain.memory import ConversationBufferMemory
 from langchain.utilities import WikipediaAPIWrapper
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "YOUR_API KEY"
 st.title("GPT CREATOR")
 prompt = st.text_input("Plug in your prompt")
 
